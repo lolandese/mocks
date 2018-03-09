@@ -1,14 +1,14 @@
 {
-  'JJansen24': {
-    'JJansen24' : [
-      { 'code' : '1186ST126', 'text' : 'Amstelkade 126 Amstelveen' },
-      { 'code' : '5492VB84', 'text' : 'Rooiseweg 84 Sint-Oedenrode' },
-      { 'code' : '5555AA1AFD1', 'text' : 'Nergenshuizen Afdeling 1' },
-      { 'code' : '5555AA1AFD2', 'text' : 'Nergenshuizen Afdeling 2' },
-      { 'code' : '5555AA1AFD3', 'text' : 'Nergenshuizen Afdeling 3' }
+  "JJansen24": {
+    "JJansen24" : [
+      { "code" : "1186ST126", "text" : "Amstelkade 126 Amstelveen" },
+      { "code" : "5492VB84", "text" : "Rooiseweg 84 Sint-Oedenrode" },
+      { "code" : "5555AA1AFD1", "text" : "Nergenshuizen Afdeling 1" },
+      { "code" : "5555AA1AFD2", "text" : "Nergenshuizen Afdeling 2" },
+      { "code" : "5555AA1AFD3", "text" : "Nergenshuizen Afdeling 3" }
     ]
   },
-  'profile': {
-    'name': 'typicode'
+  "profile": {
+    "name": "typicode"
   }
 }
